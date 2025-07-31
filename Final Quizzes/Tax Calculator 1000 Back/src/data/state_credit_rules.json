@@ -1,0 +1,62 @@
+{
+  "CA": {
+    "name": "California",
+    "percentage": 0.25,
+    "creditPerHire": 5000,
+    "enabled": true
+  },
+  "NY": {
+    "name": "New York",
+    "percentage": 0.20,
+    "creditPerHire": 3000,
+    "enabled": true
+  },
+  "TX": {
+    "name": "Texas",
+    "percentage": 0.18,
+    "creditPerHire": 2500,
+    "enabled": true
+  },
+  "FL": {
+    "name": "Florida",
+    "percentage": 0.15,
+    "creditPerHire": 2000,
+    "enabled": false
+  },
+  "IL": {
+    "name": "Illinois",
+    "percentage": 0.20,
+    "creditPerHire": 2500,
+    "enabled": false
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "percentage": 0.18,
+    "creditPerHire": 2200,
+    "enabled": false
+  },
+  "OH": {
+    "name": "Ohio",
+    "percentage": 0.16,
+    "creditPerHire": 2000,
+    "enabled": false
+  },
+  "GA": {
+    "name": "Georgia",
+    "percentage": 0.17,
+    "creditPerHire": 2100,
+    "enabled": false
+  },
+  "NC": {
+    "name": "North Carolina",
+    "percentage": 0.16,
+    "creditPerHire": 1800,
+    "enabled": false
+  },
+  "MI": {
+    "name": "Michigan",
+    "percentage": 0.15,
+    "creditPerHire": 1900,
+    "enabled": false
+  }
+}
